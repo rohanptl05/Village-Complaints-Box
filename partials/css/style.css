@@ -1,0 +1,61 @@
+body{
+    font-family: arial;
+    background: #c3bfb2;
+    padding:0;
+    margin: 0;
+  }
+  #main{
+    width: 800px;
+    margin: 0 auto;
+    background: white;
+    font-size: 19px;
+  }
+  #header{
+    color: #fff;
+    background: #c56183;
+    text-align: center;
+  }
+  h1{
+    margin: 0;
+    padding: 15px;
+    font-size: 34px;
+  }
+  #date-wrap{
+    background: #fadcaa;
+    padding: 20px 25px;
+  }
+  #date-wrap label{
+    font-weight: bold;
+    display: inline-block;
+  }
+  
+  #content{
+    background: #fff;
+    min-height: 400px;
+    overflow: auto;
+  }
+  
+  #content table{
+    width: 600px;
+    margin: 40px auto;
+  }
+  #content th{
+    background: #794c74;
+    color: #fff;
+  }
+  #content td{
+    padding: 8px;
+  }
+  #content tr:nth-child(odd){
+    background: #ecf0f1;
+  }
+  .hasDatepicker{
+    font-size: 17px;
+  }
+  
+  
+  
+  
+  
+  
+  
